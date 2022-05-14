@@ -1,6 +1,6 @@
-#### 1. Introduction
+## 1. Introduction
 
-Existing giant company like Amazon, Microsoft, Facebook and more relied on central server, it takes up of alot of
+Existing giant company like Amazon, Microsoft, Google and more relied on central server, it takes up of alot of
 resources and not effienct(I dont know what to write here).
 Today, where central server store and provide access to data is expensive and inefficient. They(Data centres) use between 10% of the world's electricity(growing around 10% since 2014).
 
@@ -10,7 +10,7 @@ for all Internet based services. Kumandra will ensure the decentralised Internet
 Proof of Resources.
 
 
-##### 2. Proof of Resources
+## 2. Proof of Resources
 
 In others decentralised networks, they use a proof of 'something' to allow the network to validate actions or servies via a  mathematically verifiable mechanism.
 
@@ -27,11 +27,11 @@ no trace on the network.
 PORS is a consensus mechanism used for utilized computer unused resources. It requires you to share or farm|mine your unused resources, to be randomly selected as block producer, validate new data and verify that transaction is legitimate(Not quite sure about this). By using PORS to utilized computer resources mean that you will allocate static CPU, RAM, and Storage to the chain. This is difference from lending your computer resources on set price, you get incentive by get choosen as block producer(maybe a better word?).
 
 
-##### 3. Incentivisation and Token Distribution
+## 3. Incentivisation and Token Distribution
 
 Kumandra network is fully inclusive and enables everyone to get involved and become a part of the project, whether a supporter, resources provider, backer or developer.
 
-##### Resources Provider
+## Resources Provider
 
 As resources providers join the network anonymously, they will start a vault(a place where they can share their resources and management location). This vault will add itself automatically to the network and start providing resources. This vault requires
 no setup and administation, it is just a simple program to run. The network will be designed to self-manager these resources
@@ -43,16 +43,19 @@ working on it.
 If people were to try and cheat the system by providing resources and then switch them off, they will lose their ability to
 earn. At some point in the future, we will invent a better solution to this problem.
 
-##### Backers
+## Backers
 
 To allow distributed ownership of the network, Kumandra will allocate (how many?) of the tokens on day 1. The tokens allocated
 are fungible. This allocation will allow two separate entities to be rewarded:
 
-###### a: Current Kumandra investors/shareholders.
+### a: Current Kumandra investors/shareholders.
+
 Currently we have none investors.
 
-###### b: Crowd Sale Participants
+### b: Crowd Sale Participants
+
 TODO!
 
-##### Developers
+## Developers
+
 TODO!
