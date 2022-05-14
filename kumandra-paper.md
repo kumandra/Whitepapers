@@ -58,4 +58,14 @@ TODO!
 
 ## Developers
 
-TODO!
+Kumandra proposes to reward developers in 2 ways. Firstly, kumandra token can be earned by contribuing bug fixes and code that
+accepted into the master branch of the codebase. Secondly, developers that contribute in building apps and benefit to the
+community will also be rewarded. Example apps (GIT, Social Media Platform, Storage Marketplace, Decentralized VM)
+
+## 4. The KOOMPI Foundation
+
+Kumandra is just a project purposed by [KOOMPI Inc](https://github.com/koompi), therefore KOOMPI will initially:
+
+* Hold and distribute Kumandra Token for developer pools
+* Hold all patents and use Kumandra to pay for the upkeep and further patents for all project.
+* Provide finances for the core team and development pods for a period of at least 3-5 years.
