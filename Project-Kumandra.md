@@ -36,3 +36,23 @@ Kumandra network is fully inclusive and enables everyone to get involved and bec
 As resources providers join the network anonymously, they will start a vault(a place where they can share their resources and management location). This vault will add itself automatically to the network and start providing resources. This vault requires
 no setup and administation, it is just a simple program to run. The network will be designed to self-manager these resources
 and reward 'farmers|miner' accordingly, ultimatly distributed across the network, thereby securing the networks' resources.
+
+The earning speed is based on the resources contributed to and verified by the network. For details of the calculation, we are
+working on it.
+
+If people were to try and cheat the system by providing resources and then switch them off, they will lose their ability to
+earn. At some point in the future, we will invent a better solution to this problem.
+
+##### Backers
+
+To allow distributed ownership of the network, Kumandra will allocate (how many?) of the tokens on day 1. The tokens allocated
+are fungible. This allocation will allow two separate entities to be rewarded:
+
+###### a: Current Kumandra investors/shareholders.
+Currently we have none investors.
+
+###### b: Crowd Sale Participants
+TODO!
+
+##### Developers
+TODO!
