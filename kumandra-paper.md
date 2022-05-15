@@ -2,7 +2,7 @@
 
 Existing giant company like Amazon, Microsoft, Google and more relied on central server, it takes up of alot of
 resources and not effienct(I dont know what to write here).
-Today, where central server store and provide access to data is expensive and inefficient. They(Data centres) use between 10% of the world's electricity(growing around 10% since 2014).
+Today, where central server store and provide access to data is expensive and inefficient. They(Data centres) use around 10% of the world's electricity(growing around 10% since 2014).
 
 To reduce these dilemma, we come up with a solution that removes these inordinately expensive central points of
 failure, data theift, data leakage, bottlenecks(ineffincies). By developing a fully decentralised replacement
