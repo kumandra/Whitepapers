@@ -15,4 +15,5 @@ Kumandra will have a majority of a close group of node that is trustable. While 
 nodes in a close group around a particular target, it should be considered computationally unfeasible.
 
 On Kumandra Network, the following rules ensure a trusted group:
-Todo!
+
+* It is hard to have a miner with a particular address (the address of a new miner will be defined by the network using the hash of the miner’s credentials). In addition, each time a miner is switched off and then rejoins the network, it will be assigned a new address. Furthermore, the node will not be considered a full functional miner until the verification period is complete.
