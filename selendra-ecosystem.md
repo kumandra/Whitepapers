@@ -22,7 +22,7 @@ Selendra core network responsible for two main important tasks, beside other ben
 
 ## Kumandra
 
-Kumandra's main existent is to gather computing resources and storage capacity to create a decentralized world supercomputer with virtual machine that can be used to compute almost anything from rendering a movies, to big data analysis, to cosmos study and store any file permanent or temperary. 
+Kumandra's main existent is to gather computing resources and storage capacity to create a decentralized world supercomputer with virtual machine that can be used to compute almost anything from rendering a movies, machine learning, big data analysis, to cosmos study and store any file permanent or temperary. 
 
 Kumandra uses **Proof-of-Resources** consensus to gather and build the system, lease the resources, and charge the users as well as incentivize the resource providers. SEL token will be used for these transactions.
 
