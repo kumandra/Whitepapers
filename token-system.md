@@ -17,3 +17,24 @@ nodes in a close group around a particular target, it should be considered compu
 On Kumandra Network, the following rules ensure a trusted group:
 
 * It is hard to have a miner with a particular address (the address of a new miner will be defined by the network using the hash of the miner’s credentials). In addition, each time a miner is switched off and then rejoins the network, it will be assigned a new address. Furthermore, the node will not be considered a full functional miner until the verification period is complete.
+
+* todo!
+
+## 3. Transfer Mechanism
+
+On Kumandra Network, vaults or miners assume various personas or roles, depending on the requests they receive. For example, the ResourcesManager persona is responsible for managing the integrity and availability of given resources from the miners into the network.
+A separate persona, the 'TransactionManager', is proposed to handle all the token-related transactions. A TransactionManager group will be a trusted group of nodes which are closest to any given transaction identity. The TransactionManager is responsible for the logic that enables transactions to be completed.
+
+todo!
+
+## 4. Proof Of Resources
+
+On the Kumandra network, resources providers contribute to the network by running a vault or mining program, which will handle requests and store resources into the network. The following parameters are used to measure a vault and a user account:
+
+* stored_resources: the total size of (CPU Core, Ram, Storage) that have been stored by the miners to the network
+
+* lost_resources: as resources are stored on a node it may switch off or be otherwise unavailable, we consider this to be lost.(Should we?) This is a critically important measure and in no way means the network has actually lost the resources as replicant copies are always available. This is a common practice for a node on the network.
+
+* healthy_resources (h.r.) :  h.r. = stored_resources - lost_resources
+
+* available_resources: the resources availabity to use for a certain tasks. For example, hosting virtual machine, do intense video rendering.
