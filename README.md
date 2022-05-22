@@ -23,3 +23,13 @@ People can deployed virtual machine or application by renting computer resource 
 
 
 
+
+
+
+
+# Researching on
+* https://github.com/sonm-io
+* https://github.com/iExecBlockchainComputing
+* https://github.com/ovrclk
+* https://github.com/golemfactory/yagna
+* MBCC Protocol but got deleted?
