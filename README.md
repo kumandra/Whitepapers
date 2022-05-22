@@ -16,7 +16,7 @@ The main idea of fog-computing is the use of a decentralized network formed from
 
 What distinguishes fog computing from cloud services is that in this case the computing resources are decentralized: instead of being provided by some centralized data center or supercomputer or server, the accumulated resource is delivered from 'individual computing devices'.
 
-This makes it possible to build extremely scalable and distributed systems, that can achieve performance and efficiency, not available with traditional cloud-based architecture. The aim of Kumandra is to attract private users and data centers with free computing resources, and to form an open market based on these resources.
+This makes it possible to build extremely scalable and distributed systems, that can achieve performance and efficiency, not available with traditional cloud-based architecture. The aim of Kumandra is to attract users that have unused computing resource that they want earn some SEL(rather then just leave it for nothing) and data centers with free computing resources, and to form an open market based on these resources.
 
 ## II. Deployment Marketplace
 People can deployed virtual machine or application by renting computer resource from renter. A platform where client can rent computing resources from resource providers. Example you can rent your unused computer resources by allocated the amount of {CPU, GPU, Ram, Network} and the price of rental like 1 SEL per day.
