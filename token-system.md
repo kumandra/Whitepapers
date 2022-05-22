@@ -38,3 +38,8 @@ On the Kumandra network, resources providers contribute to the network by runnin
 * healthy_resources (h.r.) :  h.r. = stored_resources - lost_resources
 
 * available_resources: the resources availabity to use for a certain tasks. For example, hosting virtual machine, do intense video rendering.
+
+* resources_cost: I don't know maybe rent CPU Core and get free storage and ram?
+
+* used_resources: available_resources - (n) where n is the number of resources used by the clients
+
