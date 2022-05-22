@@ -6,7 +6,7 @@ A plan and propose solution for the next generation of decentralized storage and
 
 ## I. Smart Contract based-Marketplace
 
-A market where buyers, on a competitive basis, can find the resources to run their applications. This makes it possible to build extremely scalable and distributed systems, that can achieve performance and efficiency, not available with traditional cloud-based architecture. The aim of Kumandra is to attract private users and data centers with free computing resources, and to form an open market based on these resources using Fog computing. The goal of the core component is to monitor the chain to check if there is any work to perform. In case there is, the core will orchestrate the work among the different workers that will participate in the computation.
+A market where buyers, on a competitive basis, can find the resources to run their applications. This makes it possible to build extremely scalable and distributed systems, that can achieve performance and efficiency, not available with traditional cloud-based architecture. The aim of Kumandra is to attract  users with unused computing resources and data centers with free computing resources, and to form an open market based on these resources using Fog computing. The goal of the core component is to monitor the chain to check if there is any work to perform. In case there is, the core will orchestrate the work among the different workers that will participate in the computation.
 
 
 ### Fog computing 
