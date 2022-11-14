@@ -61,12 +61,11 @@ sudo pacman -S ntp
 
 ## Installing Selendra Binary
 
-Currently, you can download Selendra binary using `Pacman` on KOOMPI OS
+Currently, you can download Selendra binary using `script`:
 ```bash
-sudo pacman -S selendra
+curl -Ssf https://raw.githubusercontent.com/selendra/selendra/master/scripts/get_selendra.sh && bash get_selendra.sh
 ```
 
-> Debian, WORK IN PROGRESS
 
 ### Synchronize Chain Data
 
