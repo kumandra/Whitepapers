@@ -70,6 +70,15 @@ sudo pacman -S selendra
 
 ### Synchronize Chain Data
 
+> This guide, we create the chain db location at /selendra which mean u need sudo privilege to make it, if u want to follow along u need to run the following step:
+```bash
+sudo mkdir /selendra # create directory using sudo privilege
+```
+
+```bash
+sudo chown -R -v $USER /selendra # To change owner directory to current user
+```
+
 You can begin syncing your node by running the following command if you do not want to start in validator mode right away by running the binary:
 
 ```bash
