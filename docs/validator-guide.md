@@ -82,7 +82,7 @@ sudo chown -R -v $USER /selendra # To change owner directory to current user
 You can begin syncing your node by running the following command if you do not want to start in validator mode right away by running the binary:
 
 ```bash
-selendra --base-path /selendra
+selendra --base-path /selendra/validtor
 ```
 
 ```
