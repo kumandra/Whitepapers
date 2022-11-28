@@ -30,5 +30,5 @@ This way, they can save transaction fee, and also cost because if they purchase 
 ### Estimate to finished is 5 month | `Phase: 2` | `Storage Packaging`
 
 ## Phase 3
-### Permenent Storage Solution
+### Permanent Storage Solution
 TODO!
