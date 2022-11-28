@@ -15,7 +15,7 @@
 - [ ] Write Kumandra-barrel which is a tool for becoming the storage node.(Hard)
 - [ ] Write Kumandra client application for End-User that own the data.(Hard)
 
-### Estimate to finished is 3-5 month | `Phase: 1` | `Pay as you go`
+### Estimate to finished in 3-5 month | `Phase: 1` | `Pay as you go`
 
 ## Phase 2
 ### Storage Packaging
@@ -27,7 +27,7 @@ This way, they can save transaction fee, and also cost because if they purchase 
 - [ ] Design fancy storage platform for end-user.(Hard)
 - [ ] Create Android|ISO client application.(Hard)
 
-### Estimate to finished is 5 month | `Phase: 2` | `Storage Packaging`
+### Estimate to finished in 5 month | `Phase: 2` | `Storage Packaging`
 
 ## Phase 3
 ### Permanent Storage Solution
