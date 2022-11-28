@@ -25,7 +25,7 @@ This way, they can save transaction fee, and also cost because if they purchase 
 - [ ] Add feature reward-locking for this feature, (just add this feature into the pallet from the phase1).(Medium)
 - [ ] Add Storage packaging feature to Kumandra-barrel tool.(Medium)
 - [ ] Design fancy storage platform for end-user.(Hard)
-- [ ] Create Android|ISO client application.(Hard)
+- [ ] Create Android|IOS client application.(Hard)
 
 ### Estimate to finished in 5 month | `Phase: 2` | `Storage Packaging`
 
