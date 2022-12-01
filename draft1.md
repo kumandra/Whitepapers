@@ -17,3 +17,14 @@ resource integration and distributed storage.
 This paper proposes a distributed storage scheme based on blockchain. The user uploads the data, and the system will randomly choose one cluster pool in the system as storage holder for the user. The user uses Kumandra Network Token to pay the storage fee to the cluster pool address. The reward
 will be locked until it reach the certain block in Kumandra Network. If user decided to store data on the network for 1 month, when the block reach the 1 month timestamp. The cluster pool will get their storage fee reward and the user data will be unpinned until the network storage garbage
 collection run. In those period, if the user decided to continue pinning, they need to revoke the pinning certificate and continue the payment.
+
+### 2. Implementing Mechanism and Principle
+
+The design of Kumandra Protocol is trying to be simple and simplicity, anyone with spair storage capacity and want to rent it out for some reward and help the network to grow. Kumandra combines a set of technologies such as IPFS, IPFS-Cluster and Substrate to build a decentralized storage platform on top of a P2P
+network.
+
+### 2.1. Overview: Kumandra Barrel
+
+Barrel is a tool used for registering as storage worker and pledging unused storage to the network.
+
+### 2.2. Blockchain: Storage Worker
