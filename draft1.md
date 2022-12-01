@@ -7,7 +7,7 @@ security and credibility of the system.
 
 ### 1. Introduction
 
-Over the past few years, with the In recent years, with the continuous improvement of information technology, the demand for computing and resource storage has grown rapidly. People continuously exploring new ways of computing and seek of higher computing power and larger storage capacity.
+Over the past few years, with the continuous improvement of information technology, the demand for computing and resource storage has grown rapidly. People continuously exploring new ways of computing and seek of higher computing power and larger storage capacity.
 Cloud computing distributes computing tasks across resource pools of a large numbers of computers, enabling applications systems to acquire more computing power, storage, space, and storges as a service needed.
     
 Cloud storage systems enable users to access massive 
