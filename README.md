@@ -10,6 +10,7 @@
 
 - [ ] Release Kumandra Parachain.(Easy)
 - [ ] Release Kumandra Whitepaper.(Medium)
+- [ ] Write Storage Worker Pallet [Regisiter, Remove, Freeze]. (Hard).
 - [ ] Write pallets reward-locking and penalty mechanism for storage node.(Medium)
 - [ ] Write simple platform for testing Kumandra decentralized storage.(Easy)
 - [ ] Write Kumandra-barrel which is a tool for becoming the storage node.(Hard)
