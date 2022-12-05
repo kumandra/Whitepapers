@@ -26,3 +26,7 @@ you can ask for a change or contribute to the network.
 We want users, not tech platforms should fully control how content moderated. A decentralized internet is not an information
 free-for-all. It means that the individual holds the power to personalize their online experinces. For example, users will decide
 what contents they want to share public and what to be public.
+
+
+What should we do if a untrust storage provider want to join cluster-pool and he execute maliciouscommand like removing other peer?
+-> IPFS cluster must be run in trusted environment. If a malicious peer joins/invades the network, we cannot prevent it from destroying the network.
